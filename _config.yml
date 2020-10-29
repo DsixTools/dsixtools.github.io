@@ -1,9 +1,9 @@
 # Site settings
 title: DsixTools
-tagline: The Standard Model Effective Field Theory Toolkit
+tagline: The Effective Field Theory Toolkit
 email: dsixtools.github@gmail.com
 description: > 
-  DsixTools - The Standard Model Effective Field Theory Toolkit
+  DsixTools - The Effective Field Theory Toolkit
 baseurl: ""
 url: "https://dsixtools.github.io/"
 twitter_username: 
